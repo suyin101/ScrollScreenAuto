@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         极速滚动页面神器
 // @namespace    https://www.suyin66.com/
-// @version      0.2
+// @version      0.3
 // @description  一款可以自动滚动页面，并且可以自定义滚动速度的神器。
 // @author       Suyin
 // @match        *://*/*
-// @icon         https://cdn.suyin66.com/wp-content/uploads/2023/01/1672999697-favicon-32x32-1.png
+// @icon         https://cdn.suyin66.com/wp-content/uploads/2023/06/1685971902-20230605133142562756.jpg
 // @grant        none
 // ==/UserScript==
 
